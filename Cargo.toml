@@ -2,5 +2,13 @@
 name = "cssificator"
 version = "0.1.0"
 edition = "2021"
+authors = ["IsotoxalDev"]
+license = "MIT"
+description = "Generate CSS source code through rust functions!"
+repository = "https://github.com/IsotoxalDev/cssificator"
+keywords = ["HTML", "Codegen", "Generating"]
 
 [dependencies]
+
+[[example]]
+name = "sample_generator"
